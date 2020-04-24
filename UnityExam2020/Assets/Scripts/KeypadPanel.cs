@@ -16,7 +16,7 @@ public class KeypadPanel : MonoBehaviour
     {
         KeypadText.text = KeypadValue;
 
-        if (KeypadValue == "1111")
+        if (KeypadValue == "1839")
         {
             TriggerEnterKeypad.DoorIsOpen = true;
         }
