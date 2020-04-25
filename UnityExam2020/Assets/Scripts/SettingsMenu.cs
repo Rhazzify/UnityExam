@@ -6,7 +6,7 @@ using UnityEngine.Audio;
 public class SettingsMenu : MonoBehaviour
 {
     public AudioMixer audioMixer;
-    public GameObject SettingsMenuUi, PauseMenuUi;
+    public GameObject SettingsMenuUi;
 
  
 
@@ -32,10 +32,7 @@ public class SettingsMenu : MonoBehaviour
 
     public void SettingPlay()
     {
-        PauseMenuUi.SetActive(true);
         SettingsMenuUi.SetActive(false);
-        
-
     }
 
 }
