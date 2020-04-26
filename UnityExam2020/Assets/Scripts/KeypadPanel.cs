@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class KeypadPanel : MonoBehaviour
 {
@@ -20,8 +21,6 @@ public class KeypadPanel : MonoBehaviour
         {
             TriggerEnterKeypad.DoorIsOpen = true;
         }
-
-
 
         if (KeypadValue.Length >= 4)
         {

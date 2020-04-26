@@ -22,7 +22,6 @@ public class KeyPadRoom3 : MonoBehaviour
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         }
 
-
         if (KeypadValue.Length >= 4)
         {
             KeypadValue = "";
