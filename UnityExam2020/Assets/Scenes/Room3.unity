@@ -13620,7 +13620,6 @@ GameObject:
   - component: {fileID: 1448523862}
   - component: {fileID: 1448523863}
   - component: {fileID: 1448523865}
-  - component: {fileID: 1448523864}
   m_Layer: 5
   m_Name: PauseMenu
   m_TagString: Untagged
@@ -13666,14 +13665,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pauseMenuUI: {fileID: 1448523861}
   SettingsMenu: {fileID: 162488597}
---- !u!81 &1448523864
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1448523861}
-  m_Enabled: 1
 --- !u!82 &1448523865
 AudioSource:
   m_ObjectHideFlags: 0
@@ -17334,7 +17325,6 @@ GameObject:
   - component: {fileID: 1789315436}
   - component: {fileID: 1789315437}
   - component: {fileID: 1789315439}
-  - component: {fileID: 1789315438}
   m_Layer: 5
   m_Name: SettingsMenu
   m_TagString: Untagged
@@ -17382,14 +17372,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioMixer: {fileID: 0}
   SettingsMenuUi: {fileID: 0}
---- !u!81 &1789315438
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1789315435}
-  m_Enabled: 1
 --- !u!82 &1789315439
 AudioSource:
   m_ObjectHideFlags: 0
