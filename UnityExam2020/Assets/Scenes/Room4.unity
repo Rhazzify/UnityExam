@@ -13171,7 +13171,7 @@ PrefabInstance:
     - target: {fileID: 7877957582416300572, guid: 8c88a33b9eb157c409bbcfa9f8e868f3,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7877957582607810588, guid: 8c88a33b9eb157c409bbcfa9f8e868f3,
         type: 3}
@@ -13187,6 +13187,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 1.4345
+      objectReference: {fileID: 0}
+    - target: {fileID: 7877957582736611559, guid: 8c88a33b9eb157c409bbcfa9f8e868f3,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 5.1957216
+      objectReference: {fileID: 0}
+    - target: {fileID: 7877957582736611559, guid: 8c88a33b9eb157c409bbcfa9f8e868f3,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3.0550487
+      objectReference: {fileID: 0}
+    - target: {fileID: 7877957582736611559, guid: 8c88a33b9eb157c409bbcfa9f8e868f3,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 3.0550487
       objectReference: {fileID: 0}
     - target: {fileID: 7877957582750792482, guid: 8c88a33b9eb157c409bbcfa9f8e868f3,
         type: 3}
@@ -13522,6 +13537,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 7877957584102502152, guid: 8c88a33b9eb157c409bbcfa9f8e868f3,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 5.6849685
+      objectReference: {fileID: 0}
+    - target: {fileID: 7877957584102502152, guid: 8c88a33b9eb157c409bbcfa9f8e868f3,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.5826678
+      objectReference: {fileID: 0}
+    - target: {fileID: 7877957584102502152, guid: 8c88a33b9eb157c409bbcfa9f8e868f3,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.5826678
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 4801474433037103388, guid: 8c88a33b9eb157c409bbcfa9f8e868f3, type: 3}
