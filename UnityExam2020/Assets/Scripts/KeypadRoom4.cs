@@ -17,10 +17,13 @@ public class KeypadRoom4 : MonoBehaviour
     {
         KeypadText.text = KeypadValue;
 
-        if (KeypadValue == "9371")
+        if (KeypadValue == "9731")
         {
+            
+            SceneManager.LoadScene(5);
             TriggerEnterKeypad.DoorIsOpen = true;
-            SceneManager.LoadScene(+1);
+            
+           
         }
 
 
