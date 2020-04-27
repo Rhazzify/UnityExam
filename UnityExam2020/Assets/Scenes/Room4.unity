@@ -427,12 +427,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 40002651}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &54181546 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1372263269194738, guid: b27216413fc371949b9c11c26384ea50,
-    type: 3}
-  m_PrefabInstance: {fileID: 362644086}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &72143988
 GameObject:
   m_ObjectHideFlags: 0
@@ -2031,7 +2025,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   KeypadUi: {fileID: 1957908054}
-  Door: {fileID: 54181546}
+  Door: {fileID: 0}
 --- !u!65 &344378503
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12943,6 +12937,10 @@ PrefabInstance:
     - target: {fileID: 11400004, guid: c6453f8e1f814744d8b94e5a6d1f9942, type: 3}
       propertyPath: mouseLook.lockCursor
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400004, guid: c6453f8e1f814744d8b94e5a6d1f9942, type: 3}
+      propertyPath: movementSettings.ForwardSpeed
+      value: 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c6453f8e1f814744d8b94e5a6d1f9942, type: 3}
