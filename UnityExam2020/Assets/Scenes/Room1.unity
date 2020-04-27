@@ -704,7 +704,7 @@ RectTransform:
   m_GameObject: {fileID: 67544283}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.77068, y: 1.51629, z: 0.36038998}
+  m_LocalScale: {x: 2.3684614, y: 2.0281894, z: 0.48205763}
   m_Children:
   - {fileID: 183996670}
   - {fileID: 600415935}
@@ -1085,7 +1085,7 @@ RectTransform:
   m_GameObject: {fileID: 132965167}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.3376, y: 1.3376, z: 1.3376}
   m_Children: []
   m_Father: {fileID: 902844040}
   m_RootOrder: 1
@@ -4346,7 +4346,7 @@ RectTransform:
   m_GameObject: {fileID: 501001493}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.3376, y: 1.3376, z: 1.3376}
   m_Children:
   - {fileID: 453038670}
   m_Father: {fileID: 902844040}
@@ -7479,7 +7479,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!81 &902844037
 AudioListener:
   m_ObjectHideFlags: 0
@@ -10669,7 +10669,7 @@ RectTransform:
   m_GameObject: {fileID: 1346359661}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.3376, y: 1.3376, z: 1.3376}
   m_Children:
   - {fileID: 969835080}
   m_Father: {fileID: 902844040}
@@ -12378,7 +12378,7 @@ RectTransform:
   m_GameObject: {fileID: 1562577435}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.3376, y: 1.3376, z: 1.3376}
   m_Children:
   - {fileID: 2031914263}
   m_Father: {fileID: 902844040}
@@ -13452,7 +13452,7 @@ RectTransform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 10, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -14730,7 +14730,7 @@ RectTransform:
   m_GameObject: {fileID: 1859873633}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.3376, y: 1.3376, z: 1.3376}
   m_Children: []
   m_Father: {fileID: 902844040}
   m_RootOrder: 5
